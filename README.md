@@ -1,3 +1,26 @@
+## srdfdom (jazzy) - 2.0.4-5
+
+The packages in the `srdfdom` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy srdfdom --override-release-repository-push-url git@github.com:revyos-ros/srdfdom-release` on `Mon, 24 Jun 2024 09:22:39 -0000`
+
+The `srdfdom` package was released.
+
+Version of package(s) in repository `srdfdom`:
+
+- upstream repository: https://github.com/ros-planning/srdfdom.git
+- release repository: https://github.com/revyos-ros/srdfdom-release.git
+- rosdistro version: `2.0.4-4`
+- old version: `2.0.4-4`
+- new version: `2.0.4-5`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## srdfdom (humble) - 2.0.4-1
 
 The packages in the `srdfdom` repository were released into the `humble` distro by running `/usr/bin/bloom-release srdfdom -t humble -r humble --override-release-repository-url https://github.com/ros2-gbp/srdfdom-release.git` on `Thu, 26 May 2022 15:34:51 -0000`
