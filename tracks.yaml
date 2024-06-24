@@ -1,4 +1,4 @@
-release_repo_url: git@github.com:moveit/srdfdom-release.git
+release_repo_url: git@github.com:revyos-ros/srdfdom-release
 tracks:
   foxy:
     actions:
